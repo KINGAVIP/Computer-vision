@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a35fd1ff-3564-4bf9-9b4a-09e8721f4e0b" name="Default Changelist" comment="" />
+    <list default="true" id="a35fd1ff-3564-4bf9-9b4a-09e8721f4e0b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/hand_track_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hand_tracking_module.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +18,12 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
   <component name="ProjectId" id="2CRz6PdUOTsi0qwUDtLk6U1r83c" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -24,7 +33,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.Hand_track">
+  <component name="RunManager" selected="Python.try">
     <configuration name="Avi" type="PythonConfigurationType" factoryName="Python">
       <module name="Computer Vision" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -67,12 +76,81 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="hand_track_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Computer Vision" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hand_track_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hand_tracking_module" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Computer Vision" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hand_tracking_module.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="try" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Computer Vision" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/try.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.Avi" />
       <item itemvalue="Python.Hand_track" />
+      <item itemvalue="Python.hand_track_2" />
+      <item itemvalue="Python.hand_tracking_module" />
+      <item itemvalue="Python.try" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.try" />
+        <item itemvalue="Python.hand_tracking_module" />
+        <item itemvalue="Python.hand_track_2" />
         <item itemvalue="Python.Hand_track" />
       </list>
     </recent_temporary>
@@ -95,29 +173,53 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="223" y="63" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.816@0.0.1536.816" timestamp="1658780185632" />
-    <state width="1515" height="208" key="GridCell.Tab.0.bottom" timestamp="1658783551659">
+    <state x="424" y="3" key="CommitChangelistDialog2" timestamp="1658867701866">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1515" height="208" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1658783551659" />
-    <state width="1515" height="208" key="GridCell.Tab.0.center" timestamp="1658783551659">
+    <state x="424" y="3" key="CommitChangelistDialog2/0.0.1536.816@0.0.1536.816" timestamp="1658867701866" />
+    <state width="1515" height="208" key="GridCell.Tab.0.bottom" timestamp="1658867824918">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1515" height="208" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1658783551659" />
-    <state width="1515" height="208" key="GridCell.Tab.0.left" timestamp="1658783551659">
+    <state width="1515" height="208" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1658867824918" />
+    <state width="1515" height="208" key="GridCell.Tab.0.center" timestamp="1658867824918">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1515" height="208" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1658783551659" />
-    <state width="1515" height="208" key="GridCell.Tab.0.right" timestamp="1658783551659">
+    <state width="1515" height="208" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1658867824918" />
+    <state width="1515" height="208" key="GridCell.Tab.0.left" timestamp="1658867824918">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1515" height="208" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1658783551659" />
+    <state width="1515" height="208" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1658867824918" />
+    <state width="1515" height="208" key="GridCell.Tab.0.right" timestamp="1658867824918">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1515" height="208" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1658867824918" />
+    <state width="1515" height="258" key="GridCell.Tab.1.bottom" timestamp="1658860127035">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1515" height="258" key="GridCell.Tab.1.bottom/0.0.1536.816@0.0.1536.816" timestamp="1658860127035" />
+    <state width="1515" height="258" key="GridCell.Tab.1.center" timestamp="1658860127035">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1515" height="258" key="GridCell.Tab.1.center/0.0.1536.816@0.0.1536.816" timestamp="1658860127035" />
+    <state width="1515" height="258" key="GridCell.Tab.1.left" timestamp="1658860127035">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1515" height="258" key="GridCell.Tab.1.left/0.0.1536.816@0.0.1536.816" timestamp="1658860127035" />
+    <state width="1515" height="258" key="GridCell.Tab.1.right" timestamp="1658860127035">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1515" height="258" key="GridCell.Tab.1.right/0.0.1536.816@0.0.1536.816" timestamp="1658860127035" />
     <state x="277" y="51" key="SettingsEditor" timestamp="1658780135075">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="277" y="51" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1658780135075" />
-    <state x="465" y="232" key="com.intellij.ide.util.TipDialog" timestamp="1658782700458">
+    <state x="465" y="232" key="com.intellij.ide.util.TipDialog" timestamp="1658858947250">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="465" y="232" key="com.intellij.ide.util.TipDialog/0.0.1536.816@0.0.1536.816" timestamp="1658782700458" />
+    <state x="465" y="232" key="com.intellij.ide.util.TipDialog/0.0.1536.816@0.0.1536.816" timestamp="1658858947250" />
+    <state x="578" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1658867682491">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="578" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.816@0.0.1536.816" timestamp="1658867682491" />
   </component>
 </project>
