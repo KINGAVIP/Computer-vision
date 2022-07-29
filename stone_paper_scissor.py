@@ -9,12 +9,10 @@ detector=htm.HandDetector(det_conf=0.7)
 
 
 
-
-
 while True:
     success, img = vid.read()
     img = detector.find_hands(img)
-    lm_list = detector.find_landmark(img)
+    lm_list = detector.find_landmark(img,draw=False)
 
     if(len(lm_list)!=0):
         #we need coordinates of four fingers->1,2,3,4
